@@ -51,7 +51,7 @@ nav ul li a:hover{
 }
 
 .detel h1{
-    font-size: 60px;           /*harshal jodangade size*/
+    font-size: 55px;           /*harshal jodangade size*/
     color: #212121;
     margin-bottom: 20px;        /*space b/w name and discription*/
 }
@@ -88,7 +88,7 @@ span{
 }
 
 .images img{
-    height: 110%;                         /*size of 1st img*/
+    height: 105%;                         /*size of 1st img*/
     position: absolute;
     left: 50%;
     bottom: 0;
